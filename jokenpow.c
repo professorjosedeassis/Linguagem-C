@@ -4,21 +4,20 @@
 
 /*
  * Jogo Pedra Papel Tesoura
- * Author: José de Assis
- * 09/05/2016 
+ * @author: JosÃ© de Assis
  */
 
 int main(int argc, char *argv[])
 {
-	//declarando variáveis de apoio a lógica
 	int jogador,computador;
-	//lógica do jogador
-	printf("____________Jo Ken Pow____________\n\n");
+	//lÃ³gica do jogador
+	printf("____________JoKenPow____________\n\n");
 	printf("1. PEDRA\n");
 	printf("2. PAPEL\n");
 	printf("3. TESOURA\n");
 	printf("Digite a opcao desejada: ");
 	scanf("%d",&jogador);
+	printf("\n________________________________\n\n");
 	switch(jogador)
 	{
 		case 1:
@@ -36,9 +35,9 @@ int main(int argc, char *argv[])
 		default:
 			printf("Opcao invalida\n");
 	}
-	// lógica do computador
+	// lÃ³gica do computador
 	srand(time(NULL));
-	computador=("%d",rand()%3+1); // esta linha atribui um número aleatório a variável computador
+	computador=("%d",rand()%3 + 1);
 	switch(computador)
 	{
 		case 1:
@@ -53,7 +52,7 @@ int main(int argc, char *argv[])
 			printf("Computador escolheu TESOURA\n");
 		break;		
 	}
-	//lógica para determinar o vencedor
+	//lÃ³gica para determinar o vencedor
 	if(jogador==computador)
 	{
 		printf("EMPATE\n");
@@ -67,17 +66,7 @@ int main(int argc, char *argv[])
 	{
 		printf("COMPUTADOR VENCEU\n");
 	}
-	
+	printf("________________________________\n");
 	system("PAUSE");
 	return 0;
 }
-
-
-
-
-
-
-
-
-
-
