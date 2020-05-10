@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 /* 
-* JosÈ de Assis
-* Linguagem de programaÁ„o C - Estrutura de repetiÁ„o
+* Jos√© de Assis
+* Linguagem de programa√ß√£o C - Estrutura de repeti√ß√£o
 * 09/05/2016
 */
 int numero,resposta;
@@ -13,7 +13,7 @@ int main(int argc, char *argv[]) {
 	{
 	system("CLS");
 	printf("Tabuada\n\n");
-	printf("Digite o numero da tabuada: ");
+	printf("Digite o n√∫mero da tabuada: ");
 	scanf("%d",&numero);
 	for(contador=0;contador<=10;contador++)
 	{
@@ -21,7 +21,7 @@ int main(int argc, char *argv[]) {
 	}
 	printf("\n1- Novo Calculo\n");
 	printf("2 -Sair\n");
-	printf("Digite a opcao desejada: ");
+	printf("Digite a op√ß√£o desejada: ");
 	scanf("%d",&resposta);
 }while(resposta != 2);
 	system("PAUSE");
