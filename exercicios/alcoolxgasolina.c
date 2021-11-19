@@ -3,30 +3,32 @@
 #include <locale.h>
 
 /* 
-	ExercÌcio - ¡lcool ou Gasolina?
-	@author Professor JosÈ de Assis
+	Exerc√≠cio - √Ålcool ou Gasolina?
+	@author Professor Jos√© de Assis
 	https://www.youtube.com/user/ProfessorJosedeAssis
-	Para carros flex È preciso ter cautela ao escolher o combustÌvel
-	na hora de abastecer. A principal diferenÁa de preÁos e vantagens
-	entre os dois combustÌveis est· na proporÁ„o preÁo X desempenho.
-	Para o ·lcool ser mais vantajoso do que a gasolina, o preÁo do litro
-	tem que custar atÈ 70% do litro da gasolina.
-	Baseado nestas informaÁıes desenvolva um aplicativo para determinar
-	qual È o combustÌvel mais vantajoso para abastecer.
+	Para carros flex √© preciso ter cautela ao escolher o combust√≠vel
+	na hora de abastecer. A principal diferen√ßa de pre√ßos e vantagens
+	entre os dois combust√≠veis est√° na propor√ß√£o pre√ßo X desempenho.
+	Para o √°lcool ser mais vantajoso do que a gasolina, o pre√ßo do litro
+	tem que custar at√© 70% do litro da gasolina.
+	Baseado nestas informa√ß√µes desenvolva um aplicativo para determinar
+	qual √© o combust√≠vel mais vantajoso para abastecer.
+	
+	ALTERANDO O ARQUIVO
 */
 
 int main(int argc, char *argv[]) {
 	setlocale(LC_ALL,"Portuguese");
 	float alcool,gasolina;
-	printf("¡lcool x Gasolina\n");
-	printf("Digite o valor do litro do ·lcool: ");
+	printf("√Ålcool x Gasolina\n");
+	printf("Digite o valor do litro do √°lcool: ");
 	scanf("%f",&alcool);
 	printf("Digite o valor do litro da gasolina: ");
 	scanf("%f",&gasolina);
 	if (alcool < (0.7 * gasolina)) {
-		printf("AbasteÁa com ¡LCOOL\n");
+		printf("Abaste√ßa com √ÅLCOOL\n");
 	} else {
-		printf("AbasteÁa com GASOLINA\n");
+		printf("Abaste√ßa com GASOLINA\n");
 	}
 	system("PAUSE");
 	return 0;
