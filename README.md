@@ -1,6 +1,6 @@
 # Linguagem C
 ![Homem letra](https://github.com/professorjosedeassis/Linguagem-C/blob/master/imagens/homem%20letra.gif)
-## Curso - Primeiros passos com a Linguagem C
+## Curso - Fundamentos da Linguagem C
 Aprenda Linguagem C de forma simples e descontraída. Este curso também ensina Lógica de Programação e é ponto de partida a todos que desejam aprender a programar.
 Neste repositório você encontra o material de apoio deste curso, além de desafios e exercícios extras.
 ### Assistir ao vídeo de introdução
