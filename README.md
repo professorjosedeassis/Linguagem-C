@@ -1,4 +1,3 @@
-![Homem letra](https://github.com/professorjosedeassis/Linguagem-C/blob/master/imagens/homem%20letra.gif)
 # Curso - Fundamentos da Linguagem C
 Aprenda Linguagem C de forma simples e descontraída. Este curso também ensina Lógica de Programação e é recomendado para iniciantes. Neste repositório você encontra o material de apoio deste curso, além de desafios e exercícios extras.
 ### Autor
@@ -33,3 +32,5 @@ Você também pode me pagar um café! ☕
 </p>
 
 Muito obrigado pelo apoio!
+
+![Homem letra](https://github.com/professorjosedeassis/Linguagem-C/blob/master/imagens/homem%20letra.gif)
