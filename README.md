@@ -6,7 +6,7 @@ Neste repositório você encontra o material de apoio deste curso, além de desa
 ### Assistir ao vídeo de introdução
 [![Curso primeiros passos com a Linguagem C](http://img.youtube.com/vi/COgylca8qYw/0.jpg)](http://www.youtube.com/watch?v=COgylca8qYw "Asssistir no YouTube")
 ### Playlist do curso:
-[Primeiros passos com a Linguagem C](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxHno2S-IiG9-lePyRNOO_E)
+[Fundamenos da Linguagem C](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxHno2S-IiG9-lePyRNOO_E)
 ## Autor
 Professor José de Assis
 ## Licença
