@@ -10,9 +10,9 @@ Professor José de Assis
 [Iniciar curso](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxHno2S-IiG9-lePyRNOO_E)
 ### Certificado
 [Iniciar teste](https://forms.gle/N3LxBdv4uSF8rjSf8)
-### Apoio
-Existem muitas formas de apoiar os cursos gratuitos e projetos do professor José de Assis. Você pode:
-- 📺 Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
+### Como apoiar os cursos gratuitos e projetos?
+Você pode:
+- Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
 - Compartilhar os cursos e projetos
 - Seguir-me nas redes sociais:
 <p align="left">
@@ -23,9 +23,12 @@ Existem muitas formas de apoiar os cursos gratuitos e projetos do professor Jos�
 <a href="https://www.youtube.com/c/roboticapraticabr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="roboticapraticabr" height="30" width="40" /></a>
 </p>
 
-- ☕ Você também pode me pagar um café!
+Você também pode me pagar um café! ☕
 
-**PIX:** josedeassisfilho@gmail.com
+ **PIX:** josedeassisfilho@gmail.com
+<p align="left">
+<a href="https://pag.ae/bmn72Gn" target="blank"><img align="center" src="https://github.com/professorjosedeassis/joseassis/blob/main/img/pagseguro.gif?raw=true" alt="pagseguro" /></a>
+<a href="https://www.paypal.com/donate?business=SGD8GH9PHZFY4&item_name=Professor+Jos%C3%A9+de+Assis&currency_code=BRL" target="blank"><img align="center" src="https://github.com/professorjosedeassis/joseassis/blob/main/img/paypal.gif?raw=true" alt="paypal" /></a>
+</p>
 
-### Licença
-Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md para detalhes.
+Muito obrigado pelo apoio!
