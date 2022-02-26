@@ -6,11 +6,13 @@ Aprenda Linguagem C de forma simples e descontraída. Este curso também ensina 
 Professor José de Assis
 ### Apresentação do curso:
 [![Curso primeiros passos com a Linguagem C](http://img.youtube.com/vi/COgylca8qYw/0.jpg)](http://www.youtube.com/watch?v=COgylca8qYw "Asssistir no YouTube")
+
+![YouTube Video Views](https://img.shields.io/youtube/views/COgylca8qYw?style=social)
 ### Playlist:
 [Iniciar curso](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxHno2S-IiG9-lePyRNOO_E)
 ### Certificado
 [Iniciar teste](https://forms.gle/N3LxBdv4uSF8rjSf8)
-### Como apoiar os cursos gratuitos e projetos?
+## Como apoiar os cursos gratuitos e projetos?
 Você pode:
 - Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
 - Compartilhar os cursos e projetos
