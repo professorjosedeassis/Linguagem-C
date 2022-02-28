@@ -6,11 +6,11 @@
 Aprenda **Linguagem C** de forma simples e descontraída. Este curso também ensina **Lógica de Programação** e é recomendado para iniciantes. Neste repositório você encontra o material de apoio deste curso, além de desafios e exercícios extras.
 ### Autor
 Professor José de Assis
-### Apresentação do curso:
+### Apresentação do curso
 [![Curso primeiros passos com a Linguagem C](http://img.youtube.com/vi/COgylca8qYw/0.jpg)](http://www.youtube.com/watch?v=COgylca8qYw "Asssistir no YouTube")
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/COgylca8qYw?style=social)
-### Playlist:
+### Playlist
 [Iniciar curso](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxHno2S-IiG9-lePyRNOO_E)
 ### Certificado
 [Iniciar teste](https://forms.gle/N3LxBdv4uSF8rjSf8)
