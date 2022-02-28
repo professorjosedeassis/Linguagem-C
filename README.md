@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/professorjosedeassis/Linguagem-C)
+
 <img align="center" src="https://github.com/professorjosedeassis/Linguagem-C/blob/master/imagens/homem%20letra.gif?raw=true" alt="homem letra" height="147" width="94" />
 
 # Curso - Fundamentos da Linguagem C
