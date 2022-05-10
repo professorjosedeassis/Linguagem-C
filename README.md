@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github.com/professorjosedeassis/Linguagem-C/blob/master/imagens/homem%20letra.gif?raw=true" alt="homem letra" height="147" width="94" />
 
-# Curso - Fundamentos da Linguagem C
+# Curso de Programação com a Linguagem C
 Aprenda **Linguagem C** de forma simples e descontraída. Este curso também ensina **Lógica de Programação** e é recomendado para iniciantes. Neste repositório você encontra o material de apoio deste curso, além de desafios e exercícios extras.
 ### Autor
 Professor José de Assis
