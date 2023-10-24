@@ -1,11 +1,8 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/Linguagem-C)
 
-<img align="center" src="https://github.com/professorjosedeassis/Linguagem-C/blob/master/imagens/homem%20letra.gif?raw=true" alt="homem letra" height="147" width="94" />
-
 # Tutorial de programação com a Linguagem C
 Aprenda **Linguagem C** de forma simples e descontraída. Este tutorial também ensina **Lógica de Programação** e é recomendado para iniciantes.
-### Autor
-Professor José de Assis
+<img align="center" src="https://github.com/professorjosedeassis/Linguagem-C/blob/master/imagens/homem%20letra.gif?raw=true" alt="homem letra" height="147" width="94" />
 ### Apresentação
 [![Curso primeiros passos com a Linguagem C](http://img.youtube.com/vi/COgylca8qYw/0.jpg)](http://www.youtube.com/watch?v=COgylca8qYw "Asssistir no YouTube")
 
